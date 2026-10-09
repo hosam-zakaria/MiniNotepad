@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Mini Text Editor
 
 A CLI-based text editor built in C++ as a student project to practice **Object-Oriented Programming** and **Data Structures & Algorithms**.
@@ -141,6 +140,3 @@ The Knuth–Morris–Pratt algorithm searches for a pattern in text in **O(n + m
 - Standard Library only (`<string>`, `<vector>`, `<fstream>`, `<sstream>`, `<iostream>`)
 - No external dependencies
 
-=======
-# MiniNotepad
->>>>>>> 985e94e386d7b396bbe87a83b3b6d0946f04837c
